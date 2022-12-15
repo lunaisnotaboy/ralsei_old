@@ -12,6 +12,8 @@
 /db/*.sqlite3
 /log/*
 !/log/.keep
+/public/javascripts/application.js
+/public/javascripts/application.min.js
 /tmp/*
 !/tmp/.keep
 /tmp/cache/*
